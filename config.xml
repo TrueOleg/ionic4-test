@@ -83,6 +83,7 @@
     <plugin name="cordova-plugin-ionic-webview" spec="^2.0.0" />
     <plugin name="cordova-plugin-ionic-keyboard" spec="^2.0.5" />
     <plugin name="cordova-plugin-mediapicker" spec="https://github.com/an-rahulpandey/cordova-plugin-mediapicker.git" />
+    <plugin name="cordova-plugin-filepicker" spec="1.1.5" />
     <engine name="android" spec="7.1.4" />
     <engine name="ios" spec="4.5.5" />
 </widget>
