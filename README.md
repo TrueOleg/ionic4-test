@@ -5,6 +5,9 @@
 git clone https://github.com/TrueOleg/ionic4-test.git
 ```
 ### Prerequisites
+```
+ionic 4.0.0
+```
 
 ```
 Nodejs version 8.12.0
