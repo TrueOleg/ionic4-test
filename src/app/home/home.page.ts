@@ -7,4 +7,13 @@ import { Component } from '@angular/core';
 })
 export class HomePage {
 
+  pickAudio() {
+    (<any>window).plugins.mediapicker.getAudio(
+      function success(data) {
+        console.log(JSON.stringify(data));
+      },
+      function error(e) {
+        console.log(e);
+      }, false, true, 'title');
+  }
 }
