@@ -62,3 +62,5 @@ https://stackoverflow.com/questions/52424462/xcode-10-a-valid-provisioning-profi
   - IOSFilePicker opens iCloud (as expected!)  
   - cordova-plugin-mediapicker opens ONLY Media Library (doesnt open iCloud!).  
   Proof: https://media.giphy.com/media/1yMf4JxZ5qy7qne57B/giphy.gif  
+
+  ![giphy](https://media.giphy.com/media/1yMf4JxZ5qy7qne57B/giphy.gif)
